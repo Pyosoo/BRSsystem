@@ -1,5 +1,6 @@
 # BRSsystem
 android basketball recording system
+개발환경 = Android Studio + Google Firebase
 
 ![image](https://user-images.githubusercontent.com/47100931/76282470-1cdfa480-62db-11ea-96a8-debd084bb5a6.png)
 
